@@ -390,6 +390,11 @@ wget https://raw.githubusercontent.com/byJoey/ech-wk/refs/heads/main/softrouter.
 chmod +x softrouter.sh
 ./softrouter.sh
 ```
+```bash
+
+#后续使用只需要这一行
+./softrouter.sh
+```
 #### 1. 上传文件
 
 ```bash
